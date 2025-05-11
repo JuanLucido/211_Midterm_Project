@@ -108,7 +108,7 @@ public:
 
 	vector<PChar> party; //Vector of Player Character Objects!!!
 
-	PChar pchar; //I've a lot of PChar object created here because I couldn't get the program to work otherwise :(
+	PChar pchar; //I've a lot of PChar objects created here because I couldn't get the program to work otherwise :(
 	PChar pchar1, pchar2, pchar3, pchar4, pchar5, pchar6, pchar7, pchar8, pchar9, pchar10, pcharA, pcharB, pcharC;
 	PChar pchar11, pchar12, pchar13, pchar14, pchar15, pchar16, pchar17, pchar18, pchar19, pchar20, pcharD, pcharE, pcharF;
 	
@@ -360,6 +360,7 @@ void Team::loadTeam1() //Loads Team1 specifically from Team1.txt
 
 	while(!teamIn.eof()) {
 		
+		//Clear out character inventory built by constructor just in case items are in the inventory
 		while (pchar.Inventory.size() > 0) {
 			pchar.Inventory.pop_back();
 		}
@@ -372,7 +373,7 @@ void Team::loadTeam1() //Loads Team1 specifically from Team1.txt
 		teamIn >> pchar.cha;
 		getline(teamIn, item);
 		getline(teamIn, item);
-		while (item != "----------") {
+		while (item != "----------") { //Checks for character divider that separates character objects
 			pchar.Inventory.push_back(item);
 			getline(teamIn, item);
 		}
