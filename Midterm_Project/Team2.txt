@@ -1,0 +1,111 @@
+HEROES OF THE SPIRE
+John, the Average Bloke
+11
+10
+10
+9
+10
+12
++1 Longsword
+Leather Armor
+Dagger
+----------
+Galateia, Sorceress of the Infinite
+8
+14
+15
+16
+18
+20
++3 Tesseract of the Infinite
+Robe of the Crimson Saint
+Floating Crystal Orb
+----------
+Jane, Villager of the Plains
+8
+10
+12
+11
+10
+11
++2 Dagger
+Scale Mail Armor
+Suitcase of Wonders
+----------
+Gorgorath, Destroyer of Worlds
+20
+17
+19
+15
+16
+18
++3 Blade of the Slayer
+Dragonscale Armor
+Sigil of Demonkind
+----------
+William, the Weakling
+4
+7
+2
+8
+7
+9
+Poop Knife
+Soiled Handkerchief
+Peasant's Rags
+----------
+Aurelien, Paragon of the Wastes
+17
+16
+16
+14
+13
+18
++2 Lightning Halberd
+Mithral Plate Armor
+Spectral Steed of the Miragelands
+----------
+Zidi, the Curious
+7
+17
+11
+18
+14
+16
++1 Glove of Stealing
+Silk Robes
+Baked Ziti
+----------
+Maliketh, the Deposed
+16
+14
+12
+15
+18
+11
++1 Broken Crown
+Shiftweave Kaffiyeh
+Bandolier of Plenty
+----------
+Sarivasa, Teal Enchantress
+11
+15
+14
+17
+11
+20
++2 Veil of Transluscence
+Elven Chain
+11 Herbs and Spices
+----------
+Florb, Brutish Outlander
+18
+12
+20
+7
+14
+13
++1 Great Club
+Worn Out Rags yer Ma Knitted for ye
+Last Night's Tavern Tab
+----------

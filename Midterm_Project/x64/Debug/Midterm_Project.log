@@ -1,0 +1,16 @@
+﻿  source.cpp
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(130,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(154,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(219,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(242,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(522,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(540,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(555,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(572,7): warning C4101: 'subChoice': unreferenced local variable
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(692,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(721,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(745,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(746,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(808,5): warning C4551: function call missing argument list
+C:\Users\Juan\source\repos\Midterm_Project\Midterm_Project\source.cpp(155,1): warning C4715: 'PChar::operator=': not all control paths return a value
+  Midterm_Project.vcxproj -> C:\Users\Juan\source\repos\Midterm_Project\x64\Debug\Midterm_Project.exe

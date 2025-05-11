@@ -1,0 +1,111 @@
+THE ADVENTURERS
+Default1, the Hero
+11
+11
+11
+11
+11
+11
+Dagger
+Sword
+Parrying Shield
+----------
+Default2, the Hero
+11
+11
+11
+11
+11
+11
+Dagger
+Sword
+Parrying Shield
+----------
+Default3, the Hero
+11
+11
+11
+11
+11
+11
+Dagger
+Sword
+Parrying Shield
+----------
+Default4, the Hero
+11
+11
+11
+11
+11
+11
+Dagger
+Sword
+Parrying Shield
+----------
+Default5, the Hero
+11
+11
+11
+11
+11
+11
+Dagger
+Sword
+Parrying Shield
+----------
+Default6, the Hero
+11
+11
+11
+11
+11
+11
+Dagger
+Sword
+Parrying Shield
+----------
+Default7, the Hero
+11
+11
+11
+11
+11
+11
+Dagger
+Sword
+Parrying Shield
+----------
+Default8, the Hero
+11
+11
+11
+11
+11
+11
+Dagger
+Sword
+Parrying Shield
+----------
+Default9, the Hero
+11
+11
+11
+11
+11
+11
+Dagger
+Sword
+Parrying Shield
+----------
+Default10, the Hero
+11
+11
+11
+11
+11
+11
+Dagger
+Sword
+Parrying Shield
+----------
